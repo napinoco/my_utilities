@@ -1,0 +1,7 @@
+,,common,,header,,data
+physical_name,logical_name,width,left,level,bg_color,num_format
+a,A,10,1,0,#7CFC00,"#,##0"
+b,B,8,4,1,#7CFC00,0.0%
+c,C,8,4,1,#7CFC00,0.0%
+d,D,10,4,2,#7CFC00,yyyy/mm/dd
+e,E,4,2,0,#7CFC00,"#,##0"
